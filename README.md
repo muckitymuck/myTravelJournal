@@ -2,7 +2,7 @@
 
 
 
-https://f66abfc8.mytraveljournal.pages.dev/
+https://626a8129.mytraveljournal.pages.dev/
 
 This is a solo project from Scrimba React course.
 
